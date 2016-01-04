@@ -220,28 +220,11 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {144993695,109360163,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
+    about_text = [[ربات آنتي اسپم رسمي اتحاد بلكــ ووُلف ساخته شده توسط اَمير بلكـــ وُُلف سازنده ربات هوشمند ميربات @AmirBlackWolf ❤️👌 تشكر ويژه از همكار خوب و مهربونم اميرعطا @amirata_bhi👌
 ]],
     help_text = [[
 Commands list :
